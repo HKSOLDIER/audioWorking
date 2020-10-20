@@ -1,0 +1,4 @@
+#Fri Oct 09 12:06:12 IST 2020
+base.0=/root/AnandAudio/BackUP/BackUp-2/audio/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
